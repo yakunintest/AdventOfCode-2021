@@ -1,0 +1,26 @@
+{
+  "name": "adventofcode-2021",
+  "version": "1.0.0",
+  "description": "Advent of code 2021",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yakunintest/AdventOfCode-2021.git"
+  },
+  "author": "Arkadiy Yakunin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yakunintest/AdventOfCode-2021/issues"
+  },
+  "homepage": "https://github.com/yakunintest/AdventOfCode-2021#readme",
+  "devDependencies": {
+    "eslint": "^8.3.0"
+  },
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "lodash": "^4.17.21"
+  }
+}
